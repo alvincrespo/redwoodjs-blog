@@ -1,0 +1,12 @@
+button, input, label {
+  display: block;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+.error {
+  border-color: red;
+  color: red;
+}
